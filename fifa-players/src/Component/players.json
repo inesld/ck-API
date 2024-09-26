@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Lionel Messi",
+      "team": "Inter Miami CF",
+      "nationality": "Argentinian",
+      "jerseyNumber": 10,
+      "age": 36,
+      "imageUrl": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/MESSI.jpg"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Al-Nassr",
+      "nationality": "Portuguese",
+      "jerseyNumber": 7,
+      "age": 39,
+      "imageUrl": "https://tmssl.akamaized.net//images/foto/galerie/cristiano-ronaldo-im-trikot-von-portugal-1718197560-139337.jpg?lm=1718197575"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Paris Saint-Germain",
+      "nationality": "French",
+      "jerseyNumber": 7,
+      "age": 25,
+      "imageUrl": "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--4f34dce2-57ed-43e6-960a-4cb4d12d3bee/POSE__16.app.webp?preferwebp=true&width=420"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "nationality": "Belgian",
+      "jerseyNumber": 17,
+      "age": 32,
+      "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/88755-1713391485.jpg?lm=1"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "nationality": "Norwegian",
+      "jerseyNumber": 9,
+      "age": 23,
+      "imageUrl": "https://i.guim.co.uk/img/media/738ce55b0210242ed89525dc7217389fcdd954f6/867_295_3097_1858/master/3097.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=93c023f0b3182e74b5320381712d32d3"
+    }
+  ]
+  
